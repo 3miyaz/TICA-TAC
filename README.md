@@ -1,3 +1,29 @@
+A toDo list app built using reactJs.
+
+The app has the folloeing functionalities:
+0. 'Launch' the app
+
+![launch](https://user-images.githubusercontent.com/46068633/154267903-4554844e-741b-40f4-b9bf-471274a25d4d.JPG)
+
+
+1. 'Add' tasks
+
+![listed](https://user-images.githubusercontent.com/46068633/154268017-bc884341-60dc-4bc2-9b99-f0d373511b83.JPG)
+
+
+2. 'Remove' tasks
+3. 'Edit' tasks
+
+![update](https://user-images.githubusercontent.com/46068633/154268212-ee7e6c0f-35ec-4e4f-870a-d16d09248c1e.JPG)
+
+
+4. 'Complete' tasks
+
+![complete](https://user-images.githubusercontent.com/46068633/154268241-40412121-2f68-47c2-bc9f-e07a67dc5175.JPG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
