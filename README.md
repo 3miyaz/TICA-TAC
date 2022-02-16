@@ -1,10 +1,9 @@
 A toDo list app built using reactJs.
 
-The app has the following functionalities:
-
-0. 'Launch' the app
-
 ![launch](https://user-images.githubusercontent.com/46068633/154267903-4554844e-741b-40f4-b9bf-471274a25d4d.JPG)
+
+
+The app has the following functionalities:
 
 
 1. 'Add' tasks
